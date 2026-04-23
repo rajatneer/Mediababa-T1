@@ -1,0 +1,240 @@
+{
+  "site": {
+    "name": "Mediababa",
+    "tagline": "India's boldest media and startup intelligence room"
+  },
+  "categories": [
+    "Trending",
+    "Business",
+    "Tech",
+    "Startup",
+    "Entertainment",
+    "Social Media",
+    "Sports",
+    "News"
+  ],
+  "liveUpdates": [
+    {
+      "time": "09:05",
+      "title": "Streaming ad spend jumps 14% as IPL quarterfinal week begins",
+      "category": "Sports"
+    },
+    {
+      "time": "09:42",
+      "title": "AI-assisted newsroom workflow pilots expand to four metro publishers",
+      "category": "Tech"
+    },
+    {
+      "time": "10:18",
+      "title": "Creator economy policy roundtable announces draft monetization norms",
+      "category": "Social Media"
+    },
+    {
+      "time": "10:50",
+      "title": "Regional OTT market hits new subscription high in tier-2 cities",
+      "category": "Entertainment"
+    }
+  ],
+  "articles": [
+    {
+      "id": "mb-101",
+      "title": "Election Dashboards Become Prime-Time Product for Newsrooms",
+      "excerpt": "Media companies are shipping real-time election products to retain digital audiences beyond TV windows.",
+      "category": "News",
+      "author": "Rhea Anand",
+      "date": "April 22, 2026",
+      "readTime": "6 min read",
+      "featured": true,
+      "content": [
+        "Newsrooms are now treating election coverage as a product layer, not just a broadcast event. The focus has shifted from one-way reporting to interactive exploration.",
+        "Publishers are investing in data pipelines, visualization teams, and mobile-first card systems to keep users in-app during high-interest moments.",
+        "The next phase is retention: newsletters, explainers, and audience-specific push alerts tied to user behavior during election nights."
+      ],
+      "tags": [
+        "elections",
+        "digital media",
+        "audience growth"
+      ]
+    },
+    {
+      "id": "mb-102",
+      "title": "Ad-Tech Firms Rebuild Measurement Models for Cookieless Mobile",
+      "excerpt": "Publishers are blending first-party identity and contextual signals as traditional tracking declines.",
+      "category": "Business",
+      "author": "Ishita Menon",
+      "date": "April 22, 2026",
+      "readTime": "5 min read",
+      "featured": true,
+      "content": [
+        "The industry's attention has moved from third-party data to cleaner, consent-first audience modeling.",
+        "In India, large publisher networks are combining login graphs, content taxonomies, and session behavior to recover campaign confidence.",
+        "Brand buyers increasingly request transparent attribution windows tied to incremental lift, not vanity reach metrics."
+      ],
+      "tags": [
+        "ad-tech",
+        "privacy",
+        "mobile"
+      ]
+    },
+    {
+      "id": "mb-103",
+      "title": "Social Platforms Add AI Safety Layers for Under-18 Users",
+      "excerpt": "Age-sensitive safety defaults now include stricter discoverability and comment controls.",
+      "category": "Social Media",
+      "author": "Karan Dutta",
+      "date": "April 21, 2026",
+      "readTime": "4 min read",
+      "featured": false,
+      "content": [
+        "Platforms are increasing friction around direct messaging, unknown follower access, and account recommendation for minors.",
+        "Policy teams say these changes are part of broader consent architecture expected across major markets.",
+        "Creators and educators are pushing for transparent appeal paths to avoid accidental over-restriction of educational content."
+      ],
+      "tags": [
+        "platform policy",
+        "ai moderation",
+        "youth safety"
+      ]
+    },
+    {
+      "id": "mb-104",
+      "title": "Regional Language Podcasts Drive 3x Completion Rates",
+      "excerpt": "Localized formats and tighter episode lengths are reshaping audio growth in India.",
+      "category": "Entertainment",
+      "author": "Aashi Roy",
+      "date": "April 21, 2026",
+      "readTime": "5 min read",
+      "featured": false,
+      "content": [
+        "Completion rates improve when episode arcs align to commuter routines and local topical rhythms.",
+        "Networks that pair podcast clips with short vertical video are seeing stronger discovery-to-listen conversion.",
+        "Advertisers are starting to price host-read inventory at premium CPM in high-trust regional niches."
+      ],
+      "tags": [
+        "podcast",
+        "regional",
+        "audio ads"
+      ]
+    },
+    {
+      "id": "mb-105",
+      "title": "Sports Broadcasters Launch Multi-Angle Mobile Streams",
+      "excerpt": "New match-view formats are designed for thumbs-first navigation, not TV mimicry.",
+      "category": "Sports",
+      "author": "Neel Sinha",
+      "date": "April 20, 2026",
+      "readTime": "4 min read",
+      "featured": false,
+      "content": [
+        "Sports apps are moving from passive feed experiences to tactical camera and stat overlays.",
+        "Session duration has risen where users can personalize angle, commentary language, and alert intensity.",
+        "Broadcasters now view mobile as a primary rights monetization surface, not a companion screen."
+      ],
+      "tags": [
+        "sports tech",
+        "streaming",
+        "engagement"
+      ]
+    },
+    {
+      "id": "mb-106",
+      "title": "Startup Media Tooling Market Crosses New Funding Peak",
+      "excerpt": "AI editing, analytics copilots, and creator CRM products attract fresh seed capital.",
+      "category": "Startup",
+      "author": "Ritvik Jain",
+      "date": "April 20, 2026",
+      "readTime": "6 min read",
+      "featured": true,
+      "content": [
+        "Investor interest has shifted from generic AI wrappers to workflow-native products for publishing teams.",
+        "Founders with clear distribution partnerships are closing rounds faster than those building horizontal tools.",
+        "Revenue discipline remains central, with investors preferring measurable newsroom ROI over viral adoption claims."
+      ],
+      "tags": [
+        "funding",
+        "media startups",
+        "saas"
+      ]
+    },
+    {
+      "id": "mb-107",
+      "title": "Publisher Homepages Get Lighter as Core Web Vitals Tighten",
+      "excerpt": "Teams are reducing script bloat and rethinking ad stacks to preserve reader retention.",
+      "category": "Tech",
+      "author": "Dhairya Shah",
+      "date": "April 19, 2026",
+      "readTime": "5 min read",
+      "featured": true,
+      "content": [
+        "Several large digital publishers have introduced strict script budgets per template and delayed non-critical widgets.",
+        "Performance leaders are simplifying page architecture so article cards and key headlines render first.",
+        "Engineering and revenue teams now collaborate earlier to prevent monetization logic from degrading UX."
+      ],
+      "tags": [
+        "web performance",
+        "core web vitals",
+        "publishing"
+      ]
+    },
+    {
+      "id": "mb-108",
+      "title": "TV News Brands Build Creator-Led Vertical Channels",
+      "excerpt": "Anchor identities are now being productized into focused digital franchises.",
+      "category": "Trending",
+      "author": "Sonal Gupta",
+      "date": "April 19, 2026",
+      "readTime": "4 min read",
+      "featured": false,
+      "content": [
+        "Network channels are forming creator squads around specific beats like markets, policy, and entertainment.",
+        "These formats perform best when tied to clear publishing cadence and interactive audience loops.",
+        "Distribution diversification across app, short video, and newsletter is now table stakes."
+      ],
+      "tags": [
+        "creator economy",
+        "tv",
+        "distribution"
+      ]
+    },
+    {
+      "id": "mb-109",
+      "title": "Brand Safety Filters Expand for AI-Generated Ad Creatives",
+      "excerpt": "Agencies want pre-flight checks before campaigns hit programmatic exchanges.",
+      "category": "Business",
+      "author": "Vani Sood",
+      "date": "April 18, 2026",
+      "readTime": "5 min read",
+      "featured": false,
+      "content": [
+        "As synthetic assets become common, agencies are introducing governance steps for compliance, trademark risk, and misinformation exposure.",
+        "Publishers are offering controlled creative review environments with escalation workflows.",
+        "These controls are increasingly linked to premium inventory deals and long-term annual contracts."
+      ],
+      "tags": [
+        "brand safety",
+        "ai ads",
+        "programmatic"
+      ]
+    },
+    {
+      "id": "mb-110",
+      "title": "Niche Business Newsletters Outperform Broad Daily Digests",
+      "excerpt": "Focused newsletter products are winning by promising one clear signal per edition.",
+      "category": "News",
+      "author": "Aparna Iyer",
+      "date": "April 18, 2026",
+      "readTime": "3 min read",
+      "featured": false,
+      "content": [
+        "Audience growth teams report better retention from topic-specific products than all-purpose morning bundles.",
+        "Simple formats with predictable structure improve open rates and referral sharing.",
+        "Leading operators pair newsletters with short explainers and member-only archives."
+      ],
+      "tags": [
+        "newsletter",
+        "retention",
+        "media strategy"
+      ]
+    }
+  ]
+}
